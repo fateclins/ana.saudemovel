@@ -3,8 +3,8 @@ Bem-vindo ao repositório do aplicativo Saúde Móvel! Este repositório contém
 Você pode visualizar o protótipo aplicativo clicando nesse link [video](https://drive.google.com/file/d/1HuXKzTTNk_qXyFawPUTIu1DQ_Uo3SLbp/view?usp=sharing).
 
 ## Sobre o back-end
-O servidor foi projetado na arquitetura MCR: Models, Controllers e Routes.
-O servidor está dentro de um container junto com o MySQL. 
+A API foi projetada na arquitetura MCR: Models, Controllers e Routes.
+A API está dentro de um container junto com o MySQL. 
 
 ## Requisitos do Sistema
 Certifique-se de ter os seguintes requisitos antes de iniciar o desenvolvimento:
