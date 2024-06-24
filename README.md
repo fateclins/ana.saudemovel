@@ -30,5 +30,5 @@ No diretório "./projeto", você encontrará:
 
 
 ## Para conhecer mais sobre mim
-Meu portfólio: [link](https://portfolio.fateclins.edu.br/~1920832121016/)
-LinkedIn: [link](www.linkedin.com/in/ana-moura-14a3951b3)
++ Meu portfólio: [link](https://portfolio.fateclins.edu.br/~1920832121016/)
++ LinkedIn: [link](www.linkedin.com/in/ana-moura-14a3951b3)
